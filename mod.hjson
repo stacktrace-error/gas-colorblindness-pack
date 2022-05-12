@@ -4,3 +4,4 @@ author: "null"
 description: "Adds transpartent letters to the electrolyzer sprite like in the mod's icon. That's it. \n[accent]A preview can be found on the mod repository.[]"
 version:1
 minGameVersion: 136
+hidden: true
